@@ -19,7 +19,7 @@ restService.post('/echo', function(req, res) {
         source: 'webhook-echo-sample'
     });
 });
-
+/*
 restService.post('/slack-test', function(req, res) {
 
     var slack_message = {
@@ -73,7 +73,7 @@ restService.post('/slack-test', function(req, res) {
         }
     });
 });
-
+*/
 
 
 
