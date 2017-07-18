@@ -1,14 +1,5 @@
 {
-  "name": "webhook-echo-sample",
-  "version": "1.0.0",
-  "description": "Webhook echo sample",
-  "main": "echo.js",
   "scripts": {
     "start": "node echo.js"
-  },
-  "author": "Aditya Gupta",
-  "dependencies": {
-    "body-parser": "^1.15.0",
-    "express": "^4.13.4"
   }
 }
