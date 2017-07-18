@@ -2,6 +2,6 @@
   "name": "webhook-echo-sample",
   "description": "Webhook echo sample",
   "scripts": {
-    "start": "node index.js"
-  },
+    "start": "node echo.js"
+  }
 }
